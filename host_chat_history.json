@@ -1,0 +1,18 @@
+[
+  {
+    "chat_id": "019b475e-78c0-702c-9dfe-289dce9a997e",
+    "registry_id": "019b475e-7a18-74c8-97cf-e9aa6d9f940f",
+    "encryption_key": "hk-8btdUPfqpjdgfRgsyt5q5nr1i0Ko2Cu3pchJUkyU=",
+    "username": "Host",
+    "chat_type": "text",
+    "timestamp": 1766428934.8859372
+  },
+  {
+    "chat_id": "019b475c-51fb-755c-b105-2904baca92c8",
+    "registry_id": "019b475c-5422-7eda-940e-2aab1d087ecd",
+    "encryption_key": "oAI0icOSLuorBK5SDPEOmwG5Uyl5fMIf2f0A-smWfJ4=",
+    "username": "Host",
+    "chat_type": "text",
+    "timestamp": 1766428794.1658719
+  }
+]
